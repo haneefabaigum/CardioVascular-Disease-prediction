@@ -56,4 +56,4 @@ streamlit run app.py
 Use the sidebar or main interface to adjust the clinical parameters. Click the prediction button to evaluate the patient's cardiovascular risk profile based on the loaded Random Forest model.
 
 ##  Live Demo
-Check out the live web application here:
+Check out the live web application here:https://cardiovascular-disease-prediction-d7yxvogvvhjbkpmr5ri7hp.streamlit.app/
